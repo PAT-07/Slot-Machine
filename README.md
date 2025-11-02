@@ -36,7 +36,7 @@ An interactive slot machine game built with Python and Streamlit, featuring anim
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/slot-machine-game.git
+   git clone https://github.com/PAT-07/slot-machine-game.git
    cd slot-machine-game
    ```
 
