@@ -216,4 +216,3 @@ if st.button("🎰 SPIN!"):
 
 **⭐ If you like this project, please give it a star on GitHub! ⭐**
 
-*Made with ❤️ and Python*
